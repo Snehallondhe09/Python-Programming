@@ -1,0 +1,12 @@
+name="snehal"
+age=19
+mobileNo=8421078318
+address="natepute"
+education="diploma"
+hobbies="dancing","reading"
+print(name)
+print(age)
+print(mobileNo)
+print(address)
+print(education)
+print(hobbies)

@@ -1,0 +1,16 @@
+day="week"
+print(day)
+day1="sunday"
+print(day1)
+day2="monday"
+print(day2)
+day3="thusday"
+print(day3)
+day4="wednesday"
+print(day4)
+day5="thursday"
+print(day5)
+day6="friday"
+print(day6)
+day7="saturday"
+print(day7)
